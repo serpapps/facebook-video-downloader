@@ -137,19 +137,19 @@ Start here: [https://serp.ly/facebook-downloader](https://serp.ly/facebook-downl
 
 ## FAQ
 
-**Can I download Facebook videos?**  
+**Can I download Facebook videos**  
 Yes. Supported Facebook videos and Reels can be saved as MP4 files.
 
-**Can I download images too?**  
+**Can I download images too**  
 Yes. Visible post images and supported album assets can be downloaded.
 
-**Can I save post text?**  
+**Can I save post text**  
 Yes. Visible Facebook post text can be exported as TXT files.
 
-**Do I need extra software?**  
+**Do I need extra software**  
 No. Everything runs through the browser extension.
 
-**Where are files saved?**  
+**Where are files saved**  
 They are saved to your default Downloads location.
 
 ## Notes
