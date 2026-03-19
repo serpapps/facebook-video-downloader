@@ -14,13 +14,13 @@
   <rect x="110" y="286" width="310" height="228" rx="20" fill="#1d4ed8"/>
   <rect x="452" y="286" width="310" height="228" rx="20" fill="#2563eb"/>
   <rect x="794" y="286" width="374" height="228" rx="20" fill="#3b82f6"/>
-  <text x="140" y="350" fill="#dbeafe" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="700">1. Open the page</text>
+  <text x="140" y="350" fill="#dbeafe" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="700">1. Load the page</text>
   <text x="140" y="394" fill="#eff6ff" font-family="Segoe UI, Arial, sans-serif" font-size="22">Load the feed, Reel, or post and</text>
   <text x="140" y="426" fill="#eff6ff" font-family="Segoe UI, Arial, sans-serif" font-size="22">make the target content visible.</text>
-  <text x="482" y="350" fill="#dbeafe" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="700">2. Review detected media</text>
-  <text x="482" y="394" fill="#eff6ff" font-family="Segoe UI, Arial, sans-serif" font-size="22">Pick videos, images, or text from</text>
-  <text x="482" y="426" fill="#eff6ff" font-family="Segoe UI, Arial, sans-serif" font-size="22">the current Facebook view.</text>
-  <text x="824" y="350" fill="#eff6ff" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="700">3. Save the export</text>
-  <text x="824" y="394" fill="#eff6ff" font-family="Segoe UI, Arial, sans-serif" font-size="22">Download MP4, image, or TXT</text>
-  <text x="824" y="426" fill="#eff6ff" font-family="Segoe UI, Arial, sans-serif" font-size="22">files for offline reference.</text>
+  <text x="482" y="350" fill="#dbeafe" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="700">2. Review media</text>
+  <text x="482" y="394" fill="#eff6ff" font-family="Segoe UI, Arial, sans-serif" font-size="20">Pick videos, images, or</text>
+  <text x="482" y="426" fill="#eff6ff" font-family="Segoe UI, Arial, sans-serif" font-size="20">text items to save.</text>
+  <text x="824" y="350" fill="#eff6ff" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="700">3. Save files</text>
+  <text x="824" y="394" fill="#eff6ff" font-family="Segoe UI, Arial, sans-serif" font-size="20">Export MP4, image, or</text>
+  <text x="824" y="426" fill="#eff6ff" font-family="Segoe UI, Arial, sans-serif" font-size="20">TXT files for later use.</text>
 </svg>
