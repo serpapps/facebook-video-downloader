@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" role="img" aria-labelledby="title desc">
+  <title id="title">Facebook Downloader workflow preview</title>
+  <desc id="desc">Stylized preview card for the Facebook Downloader workflow.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#1e3a8a"/>
+      <stop offset="100%" stop-color="#0f172a"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="720" fill="url(#bg)"/>
+  <rect x="72" y="72" width="1136" height="576" rx="28" fill="#08111f" fill-opacity="0.9" stroke="#93c5fd" stroke-opacity="0.45"/>
+  <text x="110" y="170" fill="#eff6ff" font-family="Segoe UI, Arial, sans-serif" font-size="52" font-weight="700">Facebook Downloader</text>
+  <text x="110" y="222" fill="#bfdbfe" font-family="Segoe UI, Arial, sans-serif" font-size="28">Scan visible posts, save videos, images, and text.</text>
+  <rect x="110" y="286" width="310" height="228" rx="20" fill="#1d4ed8"/>
+  <rect x="452" y="286" width="310" height="228" rx="20" fill="#2563eb"/>
+  <rect x="794" y="286" width="374" height="228" rx="20" fill="#3b82f6"/>
+  <text x="140" y="350" fill="#dbeafe" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="700">1. Open the page</text>
+  <text x="140" y="394" fill="#eff6ff" font-family="Segoe UI, Arial, sans-serif" font-size="22">Load the feed, Reel, or post and</text>
+  <text x="140" y="426" fill="#eff6ff" font-family="Segoe UI, Arial, sans-serif" font-size="22">make the target content visible.</text>
+  <text x="482" y="350" fill="#dbeafe" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="700">2. Review detected media</text>
+  <text x="482" y="394" fill="#eff6ff" font-family="Segoe UI, Arial, sans-serif" font-size="22">Pick videos, images, or text from</text>
+  <text x="482" y="426" fill="#eff6ff" font-family="Segoe UI, Arial, sans-serif" font-size="22">the current Facebook view.</text>
+  <text x="824" y="350" fill="#eff6ff" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="700">3. Save the export</text>
+  <text x="824" y="394" fill="#eff6ff" font-family="Segoe UI, Arial, sans-serif" font-size="22">Download MP4, image, or TXT</text>
+  <text x="824" y="426" fill="#eff6ff" font-family="Segoe UI, Arial, sans-serif" font-size="22">files for offline reference.</text>
+</svg>

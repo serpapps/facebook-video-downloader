@@ -1,22 +1,22 @@
 # Facebook Downloader (Browser Extension)
 
-> Download Facebook videos, images, Reels, and post text in one browser workflow.
+> Download Facebook videos, Reels, images, and visible post text in one browser workflow.
 
-Facebook Downloader is a browser extension built for users who want a cleaner way to save Facebook content without using external downloader sites. It detects visible videos, images, Reels, and post text directly in your browser session and lets you save them in standard formats for offline reference.
+Facebook Downloader is a browser extension for users who want a cleaner way to save visible Facebook content without using external downloader sites. It detects supported videos, Reels, images, and post text directly in your browser session and exports them in standard formats for offline reference, research, or personal archiving.
 
-- Save Facebook videos and Reels as MP4 files
-- Download images from posts and albums
-- Export visible post text for notes or archiving
-- Bulk-download visible media from the current page
+- Save supported Facebook videos and Reels as MP4 files
+- Download visible images from posts and supported albums
+- Export visible post text into plain-text files
+- Bulk-save supported media from the current page
 - Keep local copies of content you can already access in your session
 
 ## Links
 
-- 🚀 Get it here: [Facebook Downloader](https://serp.ly/facebook-downloader)
-- 🆕 Latest release: [GitHub Releases](https://github.com/serpapps/facebook-video-downloader/releases/latest)
-- ❓ Help center: [SERP Help](https://help.serp.co/en/)
-- 🐛 Report bugs: [GitHub Issues](https://github.com/serpapps/facebook-video-downloader/issues)
-- 💡 Request features: [Feature Requests](https://github.com/serpapps/facebook-video-downloader/issues)
+- :rocket: Get it here: [Facebook Downloader](https://serp.ly/facebook-downloader)
+- :new: Latest release: [GitHub Releases](https://github.com/serpapps/facebook-video-downloader/releases/latest)
+- :question: Help center: [SERP Help](https://help.serp.co/en/)
+- :beetle: Report bugs: [GitHub Issues](https://github.com/serpapps/facebook-video-downloader/issues)
+- :bulb: Request features: [Feature Requests](https://github.com/serpapps/facebook-video-downloader/issues)
 
 ## Preview
 
@@ -36,17 +36,18 @@ Facebook Downloader is a browser extension built for users who want a cleaner wa
 - [Installation Instructions](#installation-instructions)
 - [FAQ](#faq)
 - [Notes](#notes)
+- [License](#license)
 - [About Facebook](#about-facebook)
 
 ## Why Facebook Downloader
 
-Facebook is built for scrolling, sharing, and in-platform viewing, not for straightforward downloads. Videos cannot usually be saved with a right-click, image posts are mixed into dynamic layouts, and post text is awkward to preserve cleanly if you are building a personal archive or research set.
+Facebook is built for scrolling, sharing, and in-platform viewing, not for straightforward downloads. Videos usually cannot be saved with a right-click, image posts are mixed into dynamic layouts, and post text is awkward to preserve cleanly if you are building a personal archive or reference set.
 
-Facebook Downloader is built for that exact workflow. It scans visible Facebook content, groups the media by type, and gives you a direct way to save the content you already have access to without leaving the browser.
+Facebook Downloader is built around that exact workflow. It scans visible Facebook content, groups supported media by type, and gives you a direct way to save the content you already have access to without leaving the browser.
 
 ## Features
 
-- Video detection for feed posts, watch pages, profile content, and Reels
+- Video detection for supported feed posts, watch pages, profile content, and Reels
 - Image downloads for visible post media and supported albums
 - Post-text export for visible Facebook posts
 - In-page download controls on supported media
@@ -89,7 +90,7 @@ Saved files are exported in formats that are easier to archive, replay, and reus
 - Content creators archiving their own uploads
 - Social media managers collecting reference content
 - Researchers documenting visible public posts
-- Users who want a browser-based workflow instead of download sites
+- Users who want a browser-based workflow instead of downloader sites
 
 ## Common Use Cases
 
@@ -157,6 +158,10 @@ They are saved to your default Downloads location.
 - The extension only captures media currently visible and loaded on the page
 - Video quality depends on what Facebook exposes for that content
 - Some content may require login or specific page access
+
+## License
+
+This repository includes an MIT license in [LICENSE.md](LICENSE.md).
 
 ## About Facebook
 
