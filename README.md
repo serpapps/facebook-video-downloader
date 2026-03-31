@@ -12,7 +12,7 @@ Facebook Downloader is a browser extension for users who want a cleaner way to s
 
 ## Links
 
-- :rocket: Get it here: [Facebook Downloader](https://serp.ly/facebook-downloader)
+- :rocket: Get it here: [Facebook Downloader](https://serp.ly/facebook-video-downloader)
 - :new: Latest release: [GitHub Releases](https://github.com/serpapps/facebook-video-downloader/releases/latest)
 - :question: Help center: [SERP Help](https://help.serp.co/en/)
 - :beetle: Report bugs: [GitHub Issues](https://github.com/serpapps/facebook-video-downloader/issues)
@@ -124,7 +124,7 @@ Expand any truncated post content before scanning.
 - No credit card required for the trial
 - Unlimited downloads are available with a paid license
 
-Start here: [https://serp.ly/facebook-downloader](https://serp.ly/facebook-downloader)
+Start here: [https://serp.ly/facebook-video-downloader](https://serp.ly/facebook-video-downloader)
 
 ## Installation Instructions
 
