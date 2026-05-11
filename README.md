@@ -20,7 +20,9 @@ Facebook Downloader is a browser extension for users who want a cleaner way to s
 
 ## Preview
 
-![Facebook Downloader workflow preview](assets/workflow-preview.webp)
+<a href="https://www.youtube.com/watch?v=DdO5OCPoBuA" target="_blank">
+<img src="https://raw.githubusercontent.com/devinschumacher/uploads/refs/heads/main/images/how-to-download-facebook-videos.jpg" width="700px">
+</a>
 
 ## Table of Contents
 
