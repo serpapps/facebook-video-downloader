@@ -10,6 +10,12 @@ Facebook Downloader is a browser extension for users who want a cleaner way to s
 - Bulk-save supported media from the current page
 - Keep local copies of content you can already access in your session
 
+## Watch The Video
+
+<a href="https://www.youtube.com/watch?v=DdO5OCPoBuA" target="_blank">
+<img src="https://raw.githubusercontent.com/devinschumacher/uploads/refs/heads/main/images/how-to-download-facebook-videos.jpg" width="700px">
+</a>
+
 ## Links
 
 - :rocket: Get it here: [Facebook Downloader](https://serp.ly/facebook-video-downloader)
@@ -20,7 +26,7 @@ Facebook Downloader is a browser extension for users who want a cleaner way to s
 
 ## Preview
 
-![Facebook Downloader workflow preview](assets/workflow-preview.webp)
+![Facebook Downloader workflow preview](https://raw.githubusercontent.com/serpapps/facebook-video-downloader/refs/heads/main/assets/workflow-preview.webp)
 
 ## Table of Contents
 
