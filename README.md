@@ -1,11 +1,5 @@
 # Facebook Downloader (Browser Extension)
 
-## Watch the video
-
-<a href="https://www.youtube.com/watch?v=DdO5OCPoBuA" target="_blank">
-<img src="https://raw.githubusercontent.com/devinschumacher/uploads/refs/heads/main/images/how-to-download-facebook-videos.jpg" width="700px">
-</a>
-
 > Download Facebook videos, Reels, images, and visible post text in one browser workflow.
 
 Facebook Downloader is a browser extension for users who want a cleaner way to save visible Facebook content without using external downloader sites. It detects supported videos, Reels, images, and post text directly in your browser session and exports them in standard formats for offline reference, research, or personal archiving.
